@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Gulshan Singh</h1>
 <h3 align="center">A passionate AI-ML developer from India</h3>
 
+<img align="right" width="400" src="https://github.com/GulshanSingh125/GulshanSingh125/blob/main/githubPic.gif">
+
+
+
 - 🌱 I’m currently learning **React,Express,node and MongoDb**
 
 - 📝 I regularly write articles on [https://medium.com/@gulshan.sg.12](https://medium.com/@gulshan.sg.12)

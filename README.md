@@ -6,11 +6,11 @@
 
 
 
-- 🌱 I’m currently learning **React,Express,node and MongoDb**
+- 🌱 I’m currently learning **Computer Vision, LLMs, Machine Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@gulshan.sg.12](https://medium.com/@gulshan.sg.12)
 
-- 💬 Ask me about **Generative-AI, Vertex-Ai, React**
+- 💬 Ask me about **Generative-AI, Vertex-Ai, Computer Vision**
 
 - 📫 How to reach me **gulshan.sg.12@mgail.com**
 

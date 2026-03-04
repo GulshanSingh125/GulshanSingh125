@@ -1,4 +1,4 @@
-![logo](https://github.com/GulshanSingh125/GulshanSingh125/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/GulshanSingh125/GulshanSingh125/blob/41412b019e3ba1b550fddfc487f967f00d35807a/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gulshan Singh</h1>
 <h3 align="center">A passionate AI-ML developer from India</h3>
 
